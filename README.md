@@ -1,5 +1,5 @@
 # SignPlugin
-Kann Minecraft-Item signieren\n
+Kann Minecraft-Item signieren
 Den Code hab ich mit Maven gemacht
 Das Plugin wurde für ArcadeCraft gemacht
 AcardeCraft Discord: https://discord.gg/TE8t8DFWz5
