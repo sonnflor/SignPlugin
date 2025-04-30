@@ -1,0 +1,9 @@
+name: Sign
+version: '1.0-SNAPSHOT'
+main: de.FloS1211.signPlugin
+api-version: '1.21'
+authors: [FloS1211]
+commands:
+  sign:
+    description: Signiert ein Item
+    usage: /sign <item|help> <signText>
